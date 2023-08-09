@@ -6,7 +6,7 @@ from translate import Translator
 import dateparser
 
 
-# translator = Translator(from_lang="sv", provider='deepl', secret_access_key='58723f88-8486-c86f-3d38-0f0ead61e600:fx', to_lang="en", pro=True)
+# translator = Translator(from_lang="sv", provider='deepl', secret_access_key='', to_lang="en", pro=True)
 
 
 # def translate(text):
